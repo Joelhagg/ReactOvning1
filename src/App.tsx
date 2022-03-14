@@ -1,13 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { MyComponent1 } from './components/MyComponent1';
+import { AddingComponent } from './components/AddingComponent';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <MyComponent1></MyComponent1>
+        <AddingComponent></AddingComponent>
       </header>
     </div>
   );
